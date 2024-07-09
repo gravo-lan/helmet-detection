@@ -1,2 +1,4 @@
-# helmet-detection
-SSS
+# Helmet Detection
+The project aims to use technologies such as YOLOv5 (You Only Look Once) and EasyOCR to invigilate safe practices—specifically helmet-wearing for now—among motorcyclists and cyclists. Ideally, we aim to use pre-existing CCTV Cameras to keep the cost at a minimum; however, we are also open to using higher-quality cameras. Footage from cameras will be analyzed using the above-mentioned technologies, detecting motorcycles/bicycles and helmetless riders and using OCR technologies to extract offenders’ license plates.
+
+As the Bangkok Metropolitan Administration (BMA) suggested, our technology will primarily focus on data collection during the initial implementation phase. It will identify areas with high frequencies of safety violations and then alert the BMA to take necessary actions on-site. Another possibility for the initial implementation is to conduct the project at RIS, focusing on students who do not wear helmets while riding bikes or motorcycles, possibly taking pictures and reporting to the Admin.
